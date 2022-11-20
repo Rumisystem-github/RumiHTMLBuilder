@@ -1,0 +1,41 @@
+body{
+	margin: 0px;
+
+	overflow: hidden;
+
+	background-color: silver;
+}
+
+.SIDEMENU{
+	border: solid;
+	border-right: none;
+
+	width: calc(10vw);
+	height: 100vh;
+
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.WEBSITE{
+	border: solid;
+
+	width: calc(60vw);
+	height: 100vh;
+
+	position: absolute;
+	top: 0px;
+	left: 10vw;
+}
+
+.ETC{
+	border: solid;
+	border-left: none;
+
+	width: calc(30vw);
+	height: 100vh;
+
+	position: absolute;
+	top: 0px;
+	left: 70vw;
+}
